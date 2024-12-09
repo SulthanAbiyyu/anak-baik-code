@@ -1,0 +1,3 @@
+[submodule "dataset/artinya"]
+	path = dataset/artinya
+	url = https://github.com/SulthanAbiyyu/artinya
