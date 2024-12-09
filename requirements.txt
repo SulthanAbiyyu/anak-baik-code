@@ -1,0 +1,5 @@
+pandas
+datasets
+openai
+python-dotenv
+torch

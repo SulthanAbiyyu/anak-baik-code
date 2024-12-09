@@ -1,0 +1,1 @@
+semoga cepat lulus
