@@ -1,1 +1,1 @@
-semoga cepat lulus
+hore lulus
